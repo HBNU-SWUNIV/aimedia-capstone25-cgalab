@@ -1,4 +1,4 @@
-# 한밭대학교 지능미디어공학과 CGALAB팀
+<img width="1994" height="1196" alt="CGALAB_Unreal Engine 5 및 VR 기술을 활용한 몰입형 화재 대피 시뮬레이션 시스템 개발_지능미디어공학과_완성" src="https://github.com/user-attachments/assets/e1e97499-4afd-475e-89eb-7fd7ee35dec2" /># 한밭대학교 지능미디어공학과 CGALAB팀
 
 **팀 구성**
 - 20221099 박시연
@@ -28,6 +28,7 @@
 사용자는 동적 조명, 열 왜곡, 시야 흐림 효과(Vignetting 등)를 통해 실제와 유사한 긴박함을 경험하며, 행동 선택에 따라 시뮬레이션 결과가 달라진다.
   
 ## Conclusion
+  <img width="1994" height="1196" alt="CGALAB_Unreal Engine 5 및 VR 기술을 활용한 몰입형 화재 대피 시뮬레이션 시스템 개발_지능미디어공학과_완성" src="https://github.com/user-attachments/assets/d30a027b-7bfa-4555-be82-fc53428318f8" />
   <img width="1998" height="1199" alt="image" src="https://github.com/user-attachments/assets/5d6d42b1-bb8d-4616-a81b-94ea9e511c43" />
   - ### 기존 교육 방식보다 높은 몰입감과 학습 효과를 제공
   - ### 다양한 재난 상황 시나리오 확장 가능성 확보 (지진, 폭우, 지하철 화재 등)
