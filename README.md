@@ -27,8 +27,9 @@
 사용자는 동적 조명, 열 왜곡, 시야 흐림 효과(Vignetting 등)를 통해 실제와 유사한 긴박함을 경험하며, 행동 선택에 따라 시뮬레이션 결과가 달라진다.
   
 ## Conclusion
+  <img width="1998" height="1199" alt="image" src="https://github.com/user-attachments/assets/5d6d42b1-bb8d-4616-a81b-94ea9e511c43" />
   - ### 기존 교육 방식보다 높은 몰입감과 학습 효과를 제공
   - ### 다양한 재난 상황 시나리오 확장 가능성 확보 (지진, 폭우, 지하철 화재 등)
-  
+
 ## Project Outcome
 - ### 2025 년 동계학술대회 
