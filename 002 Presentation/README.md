@@ -24,4 +24,5 @@
 - **작품전시회 포스터**
   
   <img width="717" height="1073" alt="image" src="https://github.com/user-attachments/assets/aa82c434-1e04-43aa-b455-fbafbac24ff3" />
+  
   [다운로드](YOUR_GITHUB_REPO_URL/002%20Presentation/Files/CGALAB_2025_CSD2_Final.pdf)
