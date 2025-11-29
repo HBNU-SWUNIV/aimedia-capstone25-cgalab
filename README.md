@@ -1,4 +1,4 @@
-<img width="1994" height="1196" alt="CGALAB_Unreal Engine 5 및 VR 기술을 활용한 몰입형 화재 대피 시뮬레이션 시스템 개발_지능미디어공학과_완성" src="https://github.com/user-attachments/assets/e1e97499-4afd-475e-89eb-7fd7ee35dec2" /># 한밭대학교 지능미디어공학과 CGALAB팀
+한밭대학교 지능미디어공학과 CGALAB팀
 
 **팀 구성**
 - 20221099 박시연
