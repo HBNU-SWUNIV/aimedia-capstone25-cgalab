@@ -15,6 +15,7 @@
   
 ## System Design
   - ### System Requirements
+    ![67bcaa7c4b4bdeac](https://github.com/user-attachments/assets/bc91976f-11b2-4410-8336-2f2b19677877)
     - Unreal Engine 5 기반의 고품질 그래픽 및 물리 효과 구현 (연기, 불꽃, 조명 반사 등)
     - 사용자 시점에서의 자연스러운 이동 및 상호작용이 가능한 VR 시스템 구축
     - 실제 건물 구조 기반의 맵 설계 및 그래프 기반 경로 탐색 알고리즘 적용
